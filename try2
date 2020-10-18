@@ -1,13 +1,13 @@
-<mxfile modified="2020-10-18T20:46:29.721Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="3Qq0tXpg2gaePYxD1EhB" version="13.8.0" type="github">
+<mxfile modified="2020-10-18T20:53:54.960Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="bFqShuQVZ4GH9nUBTF8Z" version="13.8.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1426" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_b4PlgpC0dM3KuPVFIjA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_b4PlgpC0dM3KuPVFIjA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="40" width="176" height="146.5" as="geometry" />
         </mxCell>
-        <mxCell id="_b4PlgpC0dM3KuPVFIjA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_b4PlgpC0dM3KuPVFIjA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="505" y="260" width="245" height="221" as="geometry" />
         </mxCell>
         <mxCell id="HPWwt09xEQ9rUGquc0LD-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -55,28 +55,28 @@
         <mxCell id="JQpLLfpFKF7DokMhGvEe-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Dashboard-128.png" parent="1" vertex="1">
           <mxGeometry x="470" y="768.5" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="thbKVNTTIU460uJt8zk7-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/computer-technology-23/64/processor-Cpu-microchip-hardware-128.png" vertex="1" parent="1">
+        <mxCell id="thbKVNTTIU460uJt8zk7-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/computer-technology-23/64/processor-Cpu-microchip-hardware-128.png" parent="1" vertex="1">
           <mxGeometry x="60" y="430" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="thbKVNTTIU460uJt8zk7-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/microchip__chip__cpu__computer__proceesor__pc__hardware-128.png" vertex="1" parent="1">
+        <mxCell id="thbKVNTTIU460uJt8zk7-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/microchip__chip__cpu__computer__proceesor__pc__hardware-128.png" parent="1" vertex="1">
           <mxGeometry x="42" y="592" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="thbKVNTTIU460uJt8zk7-3" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.domain_controller" vertex="1" parent="1">
+        <mxCell id="thbKVNTTIU460uJt8zk7-3" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.domain_controller" parent="1" vertex="1">
           <mxGeometry x="585.2" y="300" width="93.6" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="thbKVNTTIU460uJt8zk7-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.domain_controller;" vertex="1" parent="1">
+        <mxCell id="thbKVNTTIU460uJt8zk7-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.domain_controller;" parent="1" vertex="1">
           <mxGeometry x="220.5" y="810" width="45" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="_b4PlgpC0dM3KuPVFIjA-3" value="Bevywise IoT Simulator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_b4PlgpC0dM3KuPVFIjA-3" value="Bevywise IoT Simulator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230.98" y="12.18" width="154.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_b4PlgpC0dM3KuPVFIjA-7" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=0.833;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.2;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#000000;" edge="1" parent="1" source="_b4PlgpC0dM3KuPVFIjA-1" target="HPWwt09xEQ9rUGquc0LD-2">
+        <mxCell id="_b4PlgpC0dM3KuPVFIjA-7" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=0.833;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.2;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#000000;" parent="1" source="_b4PlgpC0dM3KuPVFIjA-1" target="HPWwt09xEQ9rUGquc0LD-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="250" as="sourcePoint" />
             <mxPoint x="610" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b4PlgpC0dM3KuPVFIjA-8" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=0.955;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_b4PlgpC0dM3KuPVFIjA-1">
+        <mxCell id="_b4PlgpC0dM3KuPVFIjA-8" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=0.955;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_b4PlgpC0dM3KuPVFIjA-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="892.1800000000001" y="240.82999999999998" as="sourcePoint" />
             <mxPoint x="780" y="180" as="targetPoint" />
