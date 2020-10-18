@@ -1,6 +1,6 @@
-<mxfile modified="2020-10-18T20:57:04.518Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Q2PUIPUewcsxqv_RxS6r" version="13.8.0" type="github">
+<mxfile modified="2020-10-18T20:57:29.008Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="VsjvVkhbdnxcMtnJQ3yf" version="13.8.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1256" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="507" y="550" width="250" height="122" as="geometry" />
         </mxCell>
         <mxCell id="JQpLLfpFKF7DokMhGvEe-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.alexa_enabled_device;fillColor=#5294CF;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="60.5" y="558" width="279.5" height="180" as="geometry" />
+          <mxGeometry x="360" y="955" width="279.5" height="180" as="geometry" />
         </mxCell>
         <mxCell id="JQpLLfpFKF7DokMhGvEe-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/viiva-business/32/idea-128.png" parent="1" vertex="1">
           <mxGeometry x="450" y="46.56" width="93.44" height="93.44" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="60" y="430" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="thbKVNTTIU460uJt8zk7-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/microchip__chip__cpu__computer__proceesor__pc__hardware-128.png" parent="1" vertex="1">
-          <mxGeometry x="42" y="592" width="128" height="128" as="geometry" />
+          <mxGeometry x="224.04" y="592" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="thbKVNTTIU460uJt8zk7-3" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.domain_controller" parent="1" vertex="1">
           <mxGeometry x="585.2" y="300" width="93.6" height="130" as="geometry" />
