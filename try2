@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-18T20:57:29.008Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="VsjvVkhbdnxcMtnJQ3yf" version="13.8.0" type="github">
+<mxfile modified="2020-10-18T21:00:26.077Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="zKctGKn5TkkMNaxt3YcX" version="13.8.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1447" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -64,9 +64,6 @@
         <mxCell id="thbKVNTTIU460uJt8zk7-3" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.domain_controller" parent="1" vertex="1">
           <mxGeometry x="585.2" y="300" width="93.6" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="thbKVNTTIU460uJt8zk7-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.domain_controller;" parent="1" vertex="1">
-          <mxGeometry x="220.5" y="810" width="45" height="55" as="geometry" />
-        </mxCell>
         <mxCell id="_b4PlgpC0dM3KuPVFIjA-3" value="Bevywise IoT Simulator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230.98" y="12.18" width="154.5" height="20" as="geometry" />
         </mxCell>
@@ -96,9 +93,6 @@
         </mxCell>
         <mxCell id="48wsawov5XcOEYGOtdbz-3" value="Fan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230.98" y="154.75" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="HYxn9A7xiJXaaHPxxZGN-2" value="Controller" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="195" y="865" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="48wsawov5XcOEYGOtdbz-4" value="Door lock&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="104" y="154.75" width="40" height="20" as="geometry" />
