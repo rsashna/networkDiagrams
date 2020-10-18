@@ -1,6 +1,6 @@
-<mxfile modified="2020-10-18T21:00:26.077Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="zKctGKn5TkkMNaxt3YcX" version="13.8.0" type="github">
+<mxfile modified="2020-10-18T21:00:50.115Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="j1AK1ZTLKBfXgGfLD_Gm" version="13.8.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1447" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1256" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,11 +49,8 @@
         <mxCell id="JQpLLfpFKF7DokMhGvEe-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/security-double-colour-blue-black-vol-1/52/camera__record__security__cctv-128.png" parent="1" vertex="1">
           <mxGeometry x="765.25" y="69.80000000000001" width="84.75" height="84.75" as="geometry" />
         </mxCell>
-        <mxCell id="JQpLLfpFKF7DokMhGvEe-17" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_dashboard;" parent="1" vertex="1">
-          <mxGeometry x="84.25000000000003" y="980" width="139.79" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="JQpLLfpFKF7DokMhGvEe-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Dashboard-128.png" parent="1" vertex="1">
-          <mxGeometry x="470" y="768.5" width="128" height="128" as="geometry" />
+          <mxGeometry x="306.25" y="360" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="thbKVNTTIU460uJt8zk7-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/computer-technology-23/64/processor-Cpu-microchip-hardware-128.png" parent="1" vertex="1">
           <mxGeometry x="60" y="430" width="128" height="128" as="geometry" />
@@ -86,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HYxn9A7xiJXaaHPxxZGN-1" value="Dashboard" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="499" y="880.5" width="70" height="20" as="geometry" />
+          <mxGeometry x="330" y="481" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="48wsawov5XcOEYGOtdbz-2" value="Fridge" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="154.75" width="40" height="20" as="geometry" />
