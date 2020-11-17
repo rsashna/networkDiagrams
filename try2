@@ -1,4 +1,4 @@
-<mxfile modified="2020-11-17T09:55:56.499Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="sywLrahqQ7UQEd0eI3Pd" version="13.9.2" type="github">
+<mxfile modified="2020-11-17T10:06:38.819Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="CB_2fO0ieXFnt-kX2qAI" version="13.9.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1977" dy="1982" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="JQpLLfpFKF7DokMhGvEe-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/home-sweet-home-4/320/fan-128.png" parent="_b4PlgpC0dM3KuPVFIjA-50" vertex="1">
           <mxGeometry x="163.98000000000002" y="37.82" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_b4PlgpC0dM3KuPVFIjA-3" value="Bevywise IoT Simulated Devices" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="_b4PlgpC0dM3KuPVFIjA-50" vertex="1">
+        <mxCell id="_b4PlgpC0dM3KuPVFIjA-3" value="Bevywise Simulated IoT Devices" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="_b4PlgpC0dM3KuPVFIjA-50" vertex="1">
           <mxGeometry x="149" width="247.02" height="20" as="geometry" />
         </mxCell>
         <mxCell id="48wsawov5XcOEYGOtdbz-4" value="Door lock&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_b4PlgpC0dM3KuPVFIjA-50" vertex="1">
